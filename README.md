@@ -5,4 +5,4 @@ I have implemented these 6 commands -
 3. exit
 4. history
 5. mapfile
-6. 6. echo
+6. echo
